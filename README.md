@@ -18,7 +18,7 @@ This project is a comprehensive Movie Recommender System that suggests movies ba
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/movie-recommender-system.git
+    git clone https://github.com/elviswangari/movie-recommender-system.git
     ```
 
 2. Navigate to the project directory:
